@@ -47,11 +47,17 @@ CV Basics、NLP Basics、Reinforcement Learning、Generative Adverserial Nets, A
 • 算法改进、代码实现、论文写作
 
 实习收获：
+
 • 基本工具，如 Linux、Docker、Git、Markdown、LATEX
+
 • NLP: 如 Word Embedding、LSTM、Seq2Seq、Attention、Tranformer、Bert, ect;CV:Faster RCNN, CycleGAN, ect.
 • 强化学习基础，如 Q-learning、DQN、Policy Gradient、AC、A2C、DPG、DDPG
+
 ◆ 2018.9-2019.5 优达学城，人工智能入门课程兼职老师
+
+
 • 课程内容：Python、Numpy、Pandas、Matplotlib、Pytorch、线性代数、花卉识别
+
 • 项目地址：https://github.com/andyhujinzhao/Udacity
 # 工作经历
 
@@ -69,7 +75,7 @@ CV Basics、NLP Basics、Reinforcement Learning、Generative Adverserial Nets, A
 爬取垃圾图片，对数据清洗和标注以及增强处理，使其类别平衡；针对不同 backbone 网络模型 Xception、Inception_v3、Inception_Resnet_v2 等进行调优训练，使单个模型分类精度达到最优；选择精度较高的单个模型进行模型融合，并结合测试增强和多模型投票技术提高识别精度
 # 论文专利
 Sentence and Image-based Evaluation for Image Captioning(在投)
-Journal Paper(Accepted, IEEE Access)
+
 End-to-end Background Subtraction via a Multi-scale Spatio-temporal Model
 # 技术博客
 知乎专栏：https://www.zhihu.com/people/hujinzhao/columns
