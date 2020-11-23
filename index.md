@@ -42,8 +42,11 @@ CV Basics、NLP Basics、Reinforcement Learning、Generative Adverserial Nets, A
 ◆ 2019.1-2019.9 金山办公，算法实习生
 
 工作内容：
+
 • 图文生成，图像分割，强化学习，ChatBot
+
 • SOTA 论文复现
+
 • 算法改进、代码实现、论文写作
 
 实习收获：
@@ -51,6 +54,7 @@ CV Basics、NLP Basics、Reinforcement Learning、Generative Adverserial Nets, A
 • 基本工具，如 Linux、Docker、Git、Markdown、LATEX
 
 • NLP: 如 Word Embedding、LSTM、Seq2Seq、Attention、Tranformer、Bert, ect;CV:Faster RCNN, CycleGAN, ect.
+
 • 强化学习基础，如 Q-learning、DQN、Policy Gradient、AC、A2C、DPG、DDPG
 
 ◆ 2018.9-2019.5 优达学城，人工智能入门课程兼职老师
