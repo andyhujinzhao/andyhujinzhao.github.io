@@ -64,7 +64,7 @@ CV Basics、NLP Basics、Reinforcement Learning、Generative Adverserial Nets, A
 
 • 项目地址：https://github.com/andyhujinzhao/Udacity
 # 工作经历
-◆ 2020.07
+◆ 2020.07-今
 公司：科大讯飞
 
 内容：ASR
@@ -87,4 +87,5 @@ Sentence and Image-based Evaluation for Image Captioning(在投)
 End-to-end Background Subtraction via a Multi-scale Spatio-temporal Model
 # 技术博客
 知乎专栏：https://www.zhihu.com/people/hujinzhao/columns
+
 GitHub：https://github.com/andyhujinzhao
