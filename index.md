@@ -65,7 +65,7 @@ CV Basics、NLP Basics、Reinforcement Learning、Generative Adverserial Nets, A
 • 项目地址：https://github.com/andyhujinzhao/Udacity
 # 工作经历
 ◆ 2020.07
-
+公司：科大讯飞
 内容：ASR
 
 # 项目竞赛
