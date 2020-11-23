@@ -9,28 +9,38 @@
 
     WeChat：185-5540-1351
 
-Email：349049717@qq.com
+    Email：349049717@qq.com
 
 # 教育背景
 - 2009-2013 
+
 本科：[武汉科技大学](http://www.wust.edu.cn/)
+
 专业：建筑环境与设备工程
+
 - 2013-2017★
+
 公司：美的集团，中央空调事业部
+
 岗位：企划投资
+
 - 2017-2020 
+
 硕士：[合肥工业大学](http://www.hfut.edu.cn/)
+
 专业：电子与通信工程
 
 # 技能储备
 专业：Linux、Docker、Hadoop、Git、Python、Perl、Tensorflow、PyTorch、Markdown、LaTeX、Crawler、（C++ & Shell 在学）ect.
+
 语言：CET6 & TOEIC
 
 # 知识储备
 CV Basics、NLP Basics、Reinforcement Learning、Generative Adverserial Nets, ASR Basics, ect.
 
 # 实习经历
-◆ 2019.1-2019.9 金山办公，算法实习生
+2019.1-2019.9 金山办公，算法实习生
+
     工作内容：
 • 图文生成，图像分割，强化学习，ChatBot
 • SOTA 论文复现
