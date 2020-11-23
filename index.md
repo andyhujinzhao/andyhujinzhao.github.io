@@ -64,6 +64,9 @@ CV Basics、NLP Basics、Reinforcement Learning、Generative Adverserial Nets, A
 
 • 项目地址：https://github.com/andyhujinzhao/Udacity
 # 工作经历
+◆ 2020.07
+
+内容：ASR
 
 # 项目竞赛
 ◆ Image Captioning(Internship in KingSoft)
