@@ -66,9 +66,11 @@ CV Basics、NLP Basics、Reinforcement Learning、Generative Adverserial Nets, A
 # 工作经历
 ◆ 2020.07-今
 
-公司：科大讯飞
-
-内容：ASR
+公司：科大讯飞-核心研发平台-SP8条线（多语种ASR模型）
+1、语种识别
+2、基于OpenTransformer中文语音识别
+3、VAD优化
+4、后处理：标点+数字规整
 
 # 项目竞赛
 ◆ Image Captioning(Internship in KingSoft)
